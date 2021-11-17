@@ -8,6 +8,7 @@ Methods
 --- Instructions ---
 
 Problem: String Encryption
+
 Write a method Encrypt(char letter), which encrypts a given letter in the following way:
 
 It takes the first and the last digit from the ASCII code of the letter and concatenates them into a string, which will represent the result.
