@@ -6,6 +6,7 @@ Methods
 > IDE: Visual Studio 2019 
 
 --- Instructions ---
+
 Problem: String Encryption
 Write a method Encrypt(char letter), which encrypts a given letter in the following way:
 
